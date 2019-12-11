@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PutzplanApp/static/css/main.d1b05096.chunk.css",
+    "main.js": "/PutzplanApp/static/js/main.1f2a98e3.chunk.js",
+    "main.js.map": "/PutzplanApp/static/js/main.1f2a98e3.chunk.js.map",
+    "runtime-main.js": "/PutzplanApp/static/js/runtime-main.cf5147f5.js",
+    "runtime-main.js.map": "/PutzplanApp/static/js/runtime-main.cf5147f5.js.map",
+    "static/js/2.080bfb15.chunk.js": "/PutzplanApp/static/js/2.080bfb15.chunk.js",
+    "static/js/2.080bfb15.chunk.js.map": "/PutzplanApp/static/js/2.080bfb15.chunk.js.map",
+    "index.html": "/PutzplanApp/index.html",
+    "precache-manifest.9e2e528969189f7b1d8f38dc93223592.js": "/PutzplanApp/precache-manifest.9e2e528969189f7b1d8f38dc93223592.js",
+    "service-worker.js": "/PutzplanApp/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/PutzplanApp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.080bfb15.chunk.js.LICENSE": "/PutzplanApp/static/js/2.080bfb15.chunk.js.LICENSE",
+    "static/media/logo.svg": "/PutzplanApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf5147f5.js",
+    "static/js/2.080bfb15.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1f2a98e3.chunk.js"
+  ]
+}
